@@ -7,9 +7,9 @@ The Kotlin assignment has three components
 
 > Note: You must save your solution as `solution_part1.kt` for Part I, `solution_part2.kt` for Part II, and `solution_part3.kt` for Part III.
 
-## Part I - with Scope Functions.
+## Part I - with Scope Functions.Optional to do = Bonus!!
 ---
-- Create a working exmaple withing 'Let'
+- Create a working exmaple withing 'Let'  (Optional to do = Bonus!!)
 - Create a working exmaple withing 'Run'  (Optional to do = Bonus!!)
 - Create a working exmaple withing 'Also'  (Optional to do = Bonus!!)
 
