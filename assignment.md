@@ -15,7 +15,7 @@ The Kotlin assignment has three components
 
 ## Part II - Practice with Lists and Sets.
 ---
-- Create a list and access it and print it, then update or add elements to it
+- Create a list and access it and print it, then update or add elements to it 
 - Create a list and access out of its bounds, then manage the array errors safety with 3 different ways
 - Create a list then add repetitive and unique elements to it, then convert it to set, then add new elements to it and print the set values
 
