@@ -22,5 +22,9 @@ The Kotlin assignment has three components
 ## Part III - Practice with Maps.
 ---
 - Write an asnwer to this question: What are the cases that I need to use the map for??
+  Map used to store the elements in the key-value pairs such as: 
+students info in school (the key is student-number and value is student name), also when used create pull down menus, 
 - What is the difference between immutable and read only variables?
+immutable is variable state cannot be modified after it is created
+read only is means that variable cannot be reassigned after initialized
 - Create a map of 20 elements of strings and doubles
