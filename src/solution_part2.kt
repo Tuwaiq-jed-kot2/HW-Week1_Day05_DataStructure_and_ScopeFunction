@@ -5,6 +5,12 @@ fun main() {
         println("write right number")
     }
     println(num.getOrNull(9))
+    val chick = 15
+    try {
+        println(num[chick])
+    }catch (e: IndexOutOfBoundsException){
+        println("Index out of range")
+    }
 
 }
 
