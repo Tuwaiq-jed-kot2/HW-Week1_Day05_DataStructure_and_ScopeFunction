@@ -22,5 +22,11 @@ The Kotlin assignment has three components
 ## Part III - Practice with Maps.
 ---
 - Write an asnwer to this question: What are the cases that I need to use the map for??
+- we use it when we have a 2 object one of them have unique value, map is collection of (keys and values). 
+key should be unique elements, valve accept repetitive elements 
 - What is the difference between immutable and read only variables?
+- Read only : we can't reassign the value after initialized. val is a read only variable 
+- for example /  val x : Int
+                     x = 0 
+- Immutable : can't change the state of object  
 - Create a map of 20 elements of strings and doubles
