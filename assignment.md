@@ -22,5 +22,12 @@ The Kotlin assignment has three components
 ## Part III - Practice with Maps.
 ---
 - Write an asnwer to this question: What are the cases that I need to use the map for??
+  **Answer: Each key in a map is unique, and it can only be associated with one value 
+   so we can associate a name with national ID or device with serial number.**
+
+
 - What is the difference between immutable and read only variables?
+  **Answer: Mutable means that the variable can be reassigned to a different value after initial assignment.
+  Read-only means that the variable cannot be reassigned once initialized.**
+
 - Create a map of 20 elements of strings and doubles
