@@ -1,22 +1,23 @@
-fun main(){
-   //  What are the cases that I need to use the map for??
-   /* used to store key and value pairs. Both key and value are user defined and
-    Calling a function on each item in an Array.
-    Extracting values from an array of object.
-    Converting String to Array.
-    for example have list of people need to link whith there numbers
+fun main() {
+    /* //  What are the cases that I need to use the map for??
+   println("used to store key and value pairs. Both key and value are user defined and Calling a function on each item in an Array.)
+     (" Extracting values from an array of object and  Converting String to Array.")
+       ("for example have list of people need to link whith there numbers")
 
-    */
+
 
 
 
     // What is the difference between immutable and read only variables?
-   /* i think they are the same but immutable can`t change the value when you put thinks in variable
-    and read can change the variable .
+       ("i think they are the same but immutable can`t change the value when you put thinks in variable and read can change the variable .")
 
-    */
-  //  Create a map of 20 elements of strings and doubles
-    val xx = mutableListOf <String,Double>("ab" to 12.6, "ac" to 12.6, "abv" to 6.6,
+   */
+
+
+    //  Create a map of 20 elements of strings and doubles
+
+    val xx = mutableListOf<String, Double>(
+        "ab" to 12.6, "ac" to 12.6, "abv" to 6.6,
         "abb" to 5.6, "abn" to 92.6,
         "abh" to 72.6,
         "a bu" to 92.6,
@@ -35,6 +36,6 @@ fun main(){
         "abll" to 1112.6
 
     )
-println(xx)
-}
+    println(xx)
 
+}

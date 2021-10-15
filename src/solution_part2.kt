@@ -10,7 +10,7 @@ fun main() {
 
 
 //2- erorr in 3 ways
-fun main() {
+fun num() {
 
 
     val numbrs = listOf(11, 235, 76, 558)
@@ -28,7 +28,7 @@ fun main() {
 
  // 3
 
-fun main() {
+fun letter() {
     val ss= mutableListOf("mm","bb","num","rock")
     println(ss)
     ss.add("full")

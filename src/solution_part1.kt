@@ -1,8 +1,11 @@
 //also
+
 fun main() {
+
     val number = mutableListOf(12, 23, 54, 33, 66)
      number.also {  println("more num:$1i")}
         .add(99)
+    println(number)
     }
 
 
@@ -29,8 +32,11 @@ fun main() {
     println(this.colors)
     colors.run {
         colors =( "next one")
+        println(colors)
     }
 }
+
+
 
 
 
