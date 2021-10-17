@@ -27,7 +27,7 @@ The Kotlin assignment has three components
 
 
 - What is the difference between immutable and read only variables?
-  **Answer: Mutable means that the variable can be reassigned to a different value after initial assignment.
+  **Answer: immutable, once a value is bound to a name, you can’t change that value.
   Read-only means that the variable cannot be reassigned once initialized.**
 
 - Create a map of 20 elements of strings and doubles
