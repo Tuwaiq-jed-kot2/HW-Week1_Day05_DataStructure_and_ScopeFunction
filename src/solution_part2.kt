@@ -21,7 +21,9 @@ val color = mutableListOf("white" , "blue" , "red")
     println(y)
     //Answer 3
 
-    val idStudent = mutableListOf(123456 , 123456 , 98765,234567).distinct()
+    val idStudent = mutableListOf(123456 , 123456 , 98765,234567).toMutableSet()
+    println(idStudent)
+    idStudent.add(98898999)
     println(idStudent)
 
 

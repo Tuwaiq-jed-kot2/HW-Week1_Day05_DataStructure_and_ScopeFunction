@@ -9,7 +9,7 @@ fun main(){
     //answer 2
     /*
     immutable :we can not change the contents of tha collection
-    read only : the variable cannot to reassigned once initialized
+    read only : the variable cannot to reassigned once initialized 
 
      */
 
