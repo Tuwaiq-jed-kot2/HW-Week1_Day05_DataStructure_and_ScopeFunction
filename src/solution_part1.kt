@@ -11,14 +11,17 @@ fun main() {
 
 
 
-    //answer 2
-    val name = "Asma Saeed"
-    name.let {
-        println("$it")
+
+
+// answer 2 and  3
+
+val name1="Asmaa"
+    name1.run {
+        println(this.length)
     }
-// answer 3
-
-
+    name1.let {
+        println(it.length)
+    }
 
 }
 
